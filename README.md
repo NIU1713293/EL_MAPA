@@ -1,3 +1,3 @@
 # Projecte LP
 
-**Branca principal del projecte**
+**Branca de desenvolupament**
